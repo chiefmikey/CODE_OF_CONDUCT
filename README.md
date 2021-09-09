@@ -1,3 +1,7 @@
+<br />
+<a href="https://mikey-pro.com">
+  <img src="mikl.png" style="width: 100px" alt="Mikey Pro Logo" />
+</a>
 
 # Contributor Covenant Code of Conduct
 
