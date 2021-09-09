@@ -1,9 +1,9 @@
 <br />
-<a href="https://mikey-pro.com">
-  <img src="mikl.png" style="width: 100px" alt="Mikey Pro Logo" />
+<a href="https://mikl.io">
+  <img src="mikl.png" style="width: 100px" alt="MIKL Logo" />
 </a>
 
-# Contributor Covenant Code of Conduct
+# [Contributor Covenant Code of Conduct](https://chiefmikey.github.io/CODE_OF_CONDUCT/)
 
 ## Our Pledge
 
