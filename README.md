@@ -1,9 +1,11 @@
+<br />
 <div width="100%" align="center">
   <br />
   <a href="https://mikl.io">
     <img src="img/mikl.png" style="height: 100px" alt="MIKL Logo" />
   </a>
 </div>
+<br />
 
 # [Contributor Covenant Code of Conduct](https://chiefmikey.github.io/CODE_OF_CONDUCT/)
 
