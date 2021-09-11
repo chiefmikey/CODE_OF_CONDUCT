@@ -2,7 +2,7 @@
 <div width="100%" align="center">
   <br />
   <a href="https://mikl.io">
-    <img src="img/mikl.png" style="height: 100px" alt="MIKL Logo" />
+    <img src="img/mikl.svg" style="height: 100px" alt="MIKL Logo" />
   </a>
 </div>
 <br />
